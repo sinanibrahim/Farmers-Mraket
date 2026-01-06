@@ -74,8 +74,8 @@ This structure enables multi-table analysis using joins and aggregations.
 ## 📬 Contact
 If you found this project helpful or have suggestions, feel free to connect:
 
-- **LinkedIn:** _Add your LinkedIn profile link_  
-- **GitHub:** _This repository_  
+- **LinkedIn:**   
+- **GitHub:** 
 
 ---
 
